@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolepeak
-- 👀 I’m interested in software development
+- 👀 I’m interested in joining your development team!
 - 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on an app to create a community for women+
 - 📫 How to reach me: 
